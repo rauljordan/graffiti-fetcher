@@ -1,4 +1,4 @@
-module github.com/rauljordan/graffiti-fetch
+module github.com/rauljordan/graffiti-fetcher
 
 go 1.18
 
